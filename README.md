@@ -2,7 +2,7 @@
 
 This is a repo for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). The code for this repo was inspired by [this](https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl) excellent StackOverflow post and set of responses. The newly added feature is that the user can have the possiblity to get more scores by eating more difficult food. The food in green can move. When the snake eats the green food, the score can be added by 2 and the moving speed of the green food is larger as well.
 
-<img src="snake_game.gif"/>
+<img src="Screenshot 2021-05-03 at 17.18.12.png"/>
 
 The Capstone Project gives you a chance to integrate what you've learned throughout this program. This project will become an important part of your portfolio to share with current and future colleagues and employers.
 
